@@ -1,8 +1,8 @@
 <div align="center" id="header"> 
 <h1 align="center">Hola 👋 soy juan pablo   </h1>
 <img whidth="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
-<!-- <h3>Soy Desarrollador Web Fron end apasionado por la tecnología, me gustan los video juegos y soy músico de profesion.</h3>
-</div> -->
+
+</div>
 
 ## Sobre mi.
 
