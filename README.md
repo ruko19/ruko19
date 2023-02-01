@@ -38,6 +38,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruko19&theme=dark)](https://git.io/streak-stats)
 
+[![Ruko 19 stats](https://github-readme-stats.vercel.app/api?username=ruko19)](https://github.com/ruko19/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruko19)](https://github.com/ruko19/github-readme-stats)
 
