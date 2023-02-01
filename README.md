@@ -1,12 +1,26 @@
 <div align="center" id="header"> 
-<img whidth="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+<img whidth="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
 <h1 align="center">Hola 👋 soy juan pablo   </h1>
 <h3>Soy Desarrollador Web Fron end apasionado por la tecnología, me gustan los video juegos y soy músico de profesion</h3>
+
+## Sobre Mi. :
+
+- 👨‍🎓 Actualmente estudio **React.js** en Makaria Bootcamp.
 
 <h2 align="center">SOCIAL MEDIA</h2>
 <a target="_blank" href="www.linkedin.com/in/juanpablo-webdeveloper">
 <img src="https://img.shields.io/badge/-Linkedin-blue">
 </a>
+</div>
+
+<div align="left">
+<h3>⚙ Lenguales y herramientas : </h3>
+
+
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
+</div>
+
 </div>
 
 
