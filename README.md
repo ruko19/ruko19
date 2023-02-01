@@ -9,8 +9,8 @@
 - 👨‍🎓 Actualmente estudio **React.js** en Makaria Bootcamp.
 
 <h2 align="center">SOCIAL MEDIA</h2>
-<a target="_blank" href="www.linkedin.com/in/juanpablo-webdeveloper">
-<img align="center" src="https://img.shields.io/badge/-Linkedin-blue">
+<a align="center" target="_blank" href="https://www.linkedin.com/in/juanpablo-webdeveloper/">
+<img  src="https://img.shields.io/badge/-Linkedin-blue">
 </a>
 
 <div align="left">
