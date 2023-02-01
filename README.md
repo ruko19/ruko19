@@ -10,7 +10,7 @@
 
 <h2 align="center">SOCIAL MEDIA</h2>
 <a target="_blank" href="www.linkedin.com/in/juanpablo-webdeveloper">
-<img src="https://img.shields.io/badge/-Linkedin-blue">
+<img align="center" src="https://img.shields.io/badge/-Linkedin-blue">
 </a>
 
 <div align="left">
@@ -28,7 +28,18 @@
 
 </div>
 
+
 </div>
+
+
+---
+
+### 📊 Estadíticas :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruko19&theme=dark)](https://git.io/streak-stats)
+
+
+
 
 
 
