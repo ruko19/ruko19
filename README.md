@@ -1,6 +1,6 @@
 <div align="center" id="header"> 
 <h1 align="center">Hola 👋 soy juan pablo   </h1>
-<img whidth="400" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+<img whidth="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
 
 </div>
 
@@ -8,15 +8,23 @@
 
 - 👨‍🎓 Actualmente estudio **React.js** en Makaia Bootcamp.
 - 🎹 Soy músico de profesíon.
+- 🎮 soy amante a los videojuegos.
+
 
 
 <h2 align="center">SOCIAL MEDIA</h2>
+
+<div align="center">
 <a align="center" target="_blank" href="https://www.linkedin.com/in/juanpablo-webdeveloper/">
 <img  src="https://img.shields.io/badge/-Linkedin-blue">
 </a>
 
+
+
+</div>
+
 <div align="left">
-<h3>⚙ Lenguajes y herramientas : </h3>
+<h3> ⚙ Lenguajes y herramientas : </h3>
 
 
 <div>
