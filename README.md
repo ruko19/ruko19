@@ -27,7 +27,7 @@
 <h3> ⚙ Lenguajes y herramientas : </h3>
 
 
-<div align="center">
+<div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
@@ -46,12 +46,16 @@
 
 ### 📊 Estadíticas :
 
+<div>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ruko19&theme=dark)](https://git.io/streak-stats)
 
 [![Ruko 19 stats](https://github-readme-stats.vercel.app/api?username=ruko19)](https://github.com/ruko19/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruko19)](https://github.com/ruko19/github-readme-stats)
+</div>
+
 
 
 
