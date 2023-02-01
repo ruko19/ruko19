@@ -27,7 +27,7 @@
 <h3> ⚙ Lenguajes y herramientas : </h3>
 
 
-<div>
+<div align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" width="40" height="40">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" width="40" height="40">
