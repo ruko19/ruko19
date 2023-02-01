@@ -1,4 +1,8 @@
-### Hi there 👋
+<div aling="center" id="header"> 
+<img whidth="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+
+
+</div>
 
 <!--
 **ruko19/ruko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
