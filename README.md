@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
+<div align="center">
+  <img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
 
-<img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+</div>
 
 
 
