@@ -1,8 +1,15 @@
-<div aling="center" id="header"> 
+<div align="center" id="header"> 
 <img whidth="300" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+<h1 align="center">Hola 👋 soy juan pablo   </h1>
+<h3>Soy Desarrollador Web Fron end apasionado por la tecnología, me gustan los video juegos y soy músico de profesion</h3>
 
-
+<h2 align="center">SOCIAL MEDIA</h2>
+<a target="_blank" href="www.linkedin.com/in/juanpablo-webdeveloper">
+<img src="https://img.shields.io/badge/-Linkedin-blue">
+</a>
 </div>
+
+
 
 <!--
 **ruko19/ruko19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
