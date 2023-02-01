@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Juan Pablo</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
+
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ruko19&label=Profile%20views&color=0e75b6&style=flat" alt="ruko19" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruko19" alt="ruko19" /></a> </p>
