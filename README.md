@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Pablo</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h1 align="center">Hola 👋, soy  Juan Pablo</h1>
+<h3 align="center">soy un apasionado por el desarrollo web </h3>
 <div align="center">
   <img align="center" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" >
 
